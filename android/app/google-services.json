@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "462249976642",
+    "project_id": "feastique",
+    "storage_bucket": "feastique.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462249976642:android:3e722f67f7a101dc3d5edb",
+        "android_client_info": {
+          "package_name": "com.example.feastique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462249976642-0a9ui6sh5ublmplvj43v0h5687p6ga2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.feastique",
+            "certificate_hash": "9335268c0f757aa921877651da82fbde43e43281"
+          }
+        },
+        {
+          "client_id": "462249976642-uiqpg6df0hs5qog5h5c8se8ntmi1tg1f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.feastique",
+            "certificate_hash": "758a37d821dbf09a970d7253176fe8ac8683cf77"
+          }
+        },
+        {
+          "client_id": "462249976642-egg674q5am463u88hb36jr8gt943ubp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoMqKAFF4peONrDXl0j9-GSmr1yoccBGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462249976642-egg674q5am463u88hb36jr8gt943ubp1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462249976642-7an0ifvm0e1k34c0tg8fu2b4n5r1vhb9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.feastique"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462249976642:android:97641b94c3a71ca23d5edb",
+        "android_client_info": {
+          "package_name": "com.feastique.feastique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462249976642-egg674q5am463u88hb36jr8gt943ubp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoMqKAFF4peONrDXl0j9-GSmr1yoccBGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462249976642-egg674q5am463u88hb36jr8gt943ubp1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462249976642-7an0ifvm0e1k34c0tg8fu2b4n5r1vhb9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.feastique"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

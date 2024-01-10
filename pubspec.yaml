@@ -1,0 +1,90 @@
+name: feastique
+
+description: Your ideal restaurant app.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  authentication: 
+    path: ./packages/authentication
+  provider:
+  google_maps_flutter:
+  cloud_firestore:
+  firebase_storage:
+  firebase_app_check:
+  url_launcher: 
+  location: 
+  intl: 
+  flutter_polyline_points:
+  http:
+  bloc:
+  flutter_bloc: 
+  equatable: 
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/icons/intimate.png
+    - assets/icons/social-friendly.png
+    - assets/icons/filter.png
+    - assets/icons/list.png
+    - assets/icons/no-results-found.png
+    - assets/icons/map.png
+    - assets/icons/cuisine.png
+    - assets/icons/edit.png
+    - assets/icons/time.png
+    - assets/icons/calendar.png
+    - assets/icons/user.png
+    - assets/icons/detail.png
+    - assets/icons/phone.png
+    - assets/icons/place.png
+    - assets/icons/question.png
+    - assets/icons/reservation.png
+    - assets/icons/orders.png
+    - assets/icons/google.png
+    - assets/icons/facebook.png
+    - assets/icons/apple.png
+    - assets/icons/pin.png
+    - assets/icons/italian.png
+    - assets/icons/pizza.png
+    - assets/icons/beer.png
+    - assets/icons/european.png
+    - assets/icons/coffee.png
+    - assets/icons/wine.png
+    - assets/icons/accepted.png
+    - assets/icons/refused.png
+    - assets/icons/claimed.png
+    - assets/icons/google-maps.png
+    - assets/icons/distance.png
+    - assets/icons/waiting.png
+    - assets/icons/activate.png
+    - assets/icons/deactivate.png
+    - assets/icons/important.png
+    - assets/icons/item.png
+    - assets/icons/ingredients.png
+    - assets/icons/analytics.png
+
+
+  fonts:
+    - family: Raleway
+      fonts:
+        - asset: assets/fonts/Raleway-Regular.ttf
+        - asset: assets/fonts/Raleway-Bold.ttf
